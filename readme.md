@@ -35,7 +35,7 @@ Recently
 ----------------
 * We took part in the [Bacon 2014 Techfaire](http://devslovebacon.com/tech_fair)
 * We showcased various projects at the last [London Hackspace] Open Day on 1st June
-* We co-organised [Arduino Day Elephant  & Castle 2014](http://www.eventbrite.co.uk/e/arduino-day-free-workshops-robots-demos-talks-tickets-10967276419) [Here is the report!](https://hackpad.com/Arduino-Day-LCC-0ykEyUcLj3o)
+* We co-organised [Arduino Day at the London College of Communication](http://www.eventbrite.co.uk/e/arduino-day-free-workshops-robots-demos-talks-tickets-10967276419) [Here is the report!](https://hackpad.com/Arduino-Day-LCC-0ykEyUcLj3o)
 
 
 [London Hackspace]: http://london.hackspace.org
