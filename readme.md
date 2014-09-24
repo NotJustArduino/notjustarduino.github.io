@@ -1,16 +1,7 @@
-Flatdoc
+Not Just Ardiuino
 =======
 
-Flatdoc is a small JavaScript file that fetches Markdown files and renders them
-as full pages. Essentially, it's the easiest
-way to make open source documentation from *Readme* files.
-
- * No server-side components
- * No build process needed
- * Deployable via GitHub Pages
- * Can fetch GitHub Readme files
- * Gorgeous default theme (and it's responsive)
- * Just create an HTML file and deploy!
+Not Just Arduino is a London based special interest group that meets every two weeks at [London Hackspace].
 
 *Current version: [v/0.8.6][dist]*
 
@@ -290,20 +281,4 @@ License](http://www.opensource.org/licenses/mit-license.php).
  * [Github](http://github.com/rstacruz) (@rstacruz)
  * [Twitter](http://twitter.com/rstacruz) (@rstacruz)
 
-[rsc]: http://ricostacruz.com
-[c]:   http://github.com/rstacruz/flatdoc/contributors
-
-[GitHub API]: http://github.com/api
-[marked]: https://github.com/chjj/marked
-[Backbone.js]: http://backbonejs.org
-[dox]: https://github.com/visionmedia/dox
-[Stripe]: https://stripe.com/docs/api
-[Docco]: http://jashkenas.github.com/docco
-[GitHub pages]: https://pages.github.com
-[fences]:https://help.github.com/articles/github-flavored-markdown#syntax-highlighting
-[DocumentUp]: http://documentup.com
-
-[project]: https://github.com/rstacruz/flatdoc
-[template]: https://github.com/rstacruz/flatdoc/raw/gh-pages/templates/template.html
-[blank]: https://github.com/rstacruz/flatdoc/raw/gh-pages/templates/blank.html
-[dist]: https://github.com/rstacruz/flatdoc/tree/gh-pages/v/0.8.6
+[London Hackspace]: http://london.hackspace.org
