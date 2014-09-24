@@ -1,10 +1,9 @@
 Not Just Arduino
 =======
 
-Not Just Arduino is a London based special interest group that meets every two weeks at [London Hackspace].
-
 ### Next Meeting 6th October 2014, 7pm at [London Hackspace]
 
+*Not Just Arduino is a London based special interest group that meets every two weeks at [London Hackspace].*
 
 Join Us
 ---------------
@@ -18,6 +17,23 @@ Follow Us
 * [Google+] Community
 * Join our [Github] Group
 * Post your photos on our [Flickr] Group
+
+Member Projects
+----------------
+* [Laser Tag](https://wiki.london.hackspace.org.uk/view/Laser_tag_game)
+** A multiplayer game of laser tag, utilising infra red transmitters and receivers (think TV remote control), water pistols (gutted and internals replaced with electronics...and lasers.)
+* [LEDLightCubeFamily](https://wiki.london.hackspace.org.uk/view/LEDLightCubeFamily)
+** A set of 3 (or more) LED driven light cubes that communicate over RF, respond to sound/music and can adjust their colour via accelerometer driven tilt.
+
+We're Working On
+----------------
+* An [FAQ for new members](https://wiki.london.hackspace.org.uk/view/NotJustArduino_FAQ)
+
+Recently
+----------------
+* We took part in the [Bacon 2014 Techfaire](http://devslovebacon.com/tech_fair)
+* We showcased various projects at the last [London Hackspace] Open Day on 1st June
+* We co-organised [Arduino Day Elephant  & Castle 2014](http://www.eventbrite.co.uk/e/arduino-day-free-workshops-robots-demos-talks-tickets-10967276419) [Here is the report!](https://hackpad.com/Arduino-Day-LCC-0ykEyUcLj3o)
 
 
 [London Hackspace]: http://london.hackspace.org
