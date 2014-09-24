@@ -24,6 +24,8 @@ Member Projects
   * A multiplayer game of laser tag, utilising infra red transmitters and receivers (think TV remote control), water pistols (gutted and internals replaced with electronics...and lasers.)
 * [LEDLightCubeFamily](https://wiki.london.hackspace.org.uk/view/LEDLightCubeFamily)
   * A set of 3 (or more) LED driven light cubes that communicate over RF, respond to sound/music and can adjust their colour via accelerometer driven tilt.
+* [LetterBot](http://hackster.io/jay_uk/letterbot)
+  * An intenet connected door bell based on a [Spark Core](http://spark.io)
 
 We're Working On
 ----------------
