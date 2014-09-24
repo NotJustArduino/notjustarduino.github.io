@@ -21,9 +21,9 @@ Follow Us
 Member Projects
 ----------------
 * [Laser Tag](https://wiki.london.hackspace.org.uk/view/Laser_tag_game)
-** A multiplayer game of laser tag, utilising infra red transmitters and receivers (think TV remote control), water pistols (gutted and internals replaced with electronics...and lasers.)
+  * A multiplayer game of laser tag, utilising infra red transmitters and receivers (think TV remote control), water pistols (gutted and internals replaced with electronics...and lasers.)
 * [LEDLightCubeFamily](https://wiki.london.hackspace.org.uk/view/LEDLightCubeFamily)
-** A set of 3 (or more) LED driven light cubes that communicate over RF, respond to sound/music and can adjust their colour via accelerometer driven tilt.
+  * A set of 3 (or more) LED driven light cubes that communicate over RF, respond to sound/music and can adjust their colour via accelerometer driven tilt.
 
 We're Working On
 ----------------
