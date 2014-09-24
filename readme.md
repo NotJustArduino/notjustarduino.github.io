@@ -1,7 +1,8 @@
-#Not Just Arduino
+Not Just Arduino
 =======
 
-## Next Meeting 6th October 2014, 7pm at [London Hackspace]
+## Next Meeting 6th October 2014, 
+7pm at [London Hackspace]
 
 Not Just Arduino is a London based special interest group that meets every two weeks at [London Hackspace].
 
