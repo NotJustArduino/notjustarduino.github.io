@@ -5,6 +5,11 @@ Not Just Arduino
 
 *Not Just Arduino is a London based special interest group that meets every two weeks at [London Hackspace].*
 
+Maker Faire
+---------------
+
+If you came to Elephant and Castle Mini Maker Faire 2014 and would like to learn how to make some of the awesome projects on display, join us at [London Hackspace] every other Monday at 7PM!  Everyone is welcome, from beginners to pros.
+
 Join Us
 ---------------
 
